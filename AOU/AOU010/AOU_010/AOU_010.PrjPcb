@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -83,6 +83,221 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PXYWVOXG
 
+[Document3]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=motor_controllers_connection.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IUGUEIJZ
+
+[ProjectVariant1]
+UniqueId=902b66d0-a051-4137-bd64-12291da8cf57
+Description=jlcpcb_pcba
+AllowFabrication=1
+ParameterCount=0
+VariationCount=17
+Variation1=Designator=DS1|UniqueId=\ZDPSSFKR|Kind=1|AlternatePart=
+Variation2=Designator=J1|UniqueId=\JUFSMMMI|Kind=1|AlternatePart=
+Variation3=Designator=J2|UniqueId=\IKZZXLLT|Kind=1|AlternatePart=
+Variation4=Designator=J3|UniqueId=\QJFWLXJL|Kind=1|AlternatePart=
+Variation5=Designator=J4|UniqueId=\LATUNMTZ|Kind=1|AlternatePart=
+Variation6=Designator=J6|UniqueId=\BLKCMDIR|Kind=1|AlternatePart=
+Variation7=Designator=J7|UniqueId=\EMQWZNTZ|Kind=1|AlternatePart=
+Variation8=Designator=J8|UniqueId=\UIZKJCSH|Kind=1|AlternatePart=
+Variation9=Designator=LD1|UniqueId=\STMEBOCD|Kind=1|AlternatePart=
+Variation10=Designator=LD2|UniqueId=\MXQFPPUE|Kind=1|AlternatePart=
+Variation11=Designator=LD3|UniqueId=\ANOOXGIU|Kind=1|AlternatePart=
+Variation12=Designator=LD4|UniqueId=\DFDSWZLL|Kind=1|AlternatePart=
+Variation13=Designator=LD5|UniqueId=\XHAWFKHI|Kind=1|AlternatePart=
+Variation14=Designator=LD6|UniqueId=\YUJGOAZZ|Kind=1|AlternatePart=
+Variation15=Designator=U2|UniqueId=\MNQBVOQQ|Kind=1|AlternatePart=
+Variation16=Designator=U3|UniqueId=\GMHPVAAR|Kind=1|AlternatePart=
+Variation17=Designator=U4|UniqueId=\JFHKJVJV|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\NC Drill\aou_pcb-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Free Documents\NC Drill\aou_pcb-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\NC Drill\aou_pcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for AOU_010\aou_pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for AOU_010\GerberX2\aou_pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for AOU_010\aou_pcb.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for AOU_010\aou_pcb.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for AOU_010\aou_pcb.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for AOU_010\aou_pcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for AOU_010\aou_pcb.GM
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for AOU_010\aou_pcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for AOU_010\aou_pcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for AOU_010\aou_pcb.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for AOU_010\aou_pcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\NC Drill\aou_pcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for AOU_010\aou_pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for AOU_010\GerberX2\aou_pcb_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\Gerber\aou_pcb_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for AOU_010\GerberX2\aou_pcb_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Gerber\aou_pcb_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for AOU_010\GerberX2\aou_pcb_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\Gerber\aou_pcb_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for AOU_010\GerberX2\aou_pcb_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\Gerber\aou_pcb_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for AOU_010\GerberX2\aou_pcb_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for AOU_010\GerberX2\aou_pcb_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Free Documents\Gerber\aou_pcb_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for AOU_010\GerberX2\aou_pcb_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Free Documents\Gerber\aou_pcb_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for AOU_010\GerberX2\aou_pcb_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Free Documents\Gerber\aou_pcb_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for AOU_010\GerberX2\aou_pcb_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for AOU_010\GerberX2\aou_pcb_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Free Documents\Gerber\aou_pcb_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for AOU_010\GerberX2\aou_pcb_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Free Documents\Gerber\aou_pcb_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for AOU_010\Design Rule Check - aou_pcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for AOU_010\Pick Place for aou_pcb.csv
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for AOU_010\Pick Place for aou_pcb.txt
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -98,7 +313,7 @@ AutoOpenFile=0
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=0
+ProjectMode=-1
 ZoomPrecision=50
 AddNetsInformation=-1
 AddNetPins=-1
@@ -354,6 +569,10 @@ OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Arrow Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#18=Name:Manufacturer_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#19=Name:SMD,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#20=Name:Mouser Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#21=Name:ComponentLink3Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#22=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#23=Name:Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#24=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#25=Name:Datasheet Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#26=Name:Arrow Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#27=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#28=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#29=Name:ComponentLink3URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#30=Name:Tolerance & Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#31=Name:Mouser Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#32=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#33=Name:Voltage rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#34=Name:Author,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#35=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#36=Name:Manufacturer_Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#37=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#38=Name:JLCPCB Part,Fixed:False,Metric:False,Visible:True,Sort:None,Position:28,Type:0|DocumentPath=C:\Users\kubic\Documents\GitHub\tracker_electrical\AOU\AOU010\AOU_010\aou_pcb.PcbDoc
 OutputType3=Test Points For Assembly
 OutputName3=Test Point Report
 OutputDocumentPath3=
@@ -370,72 +589,80 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Canon MG7700 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+Configuration10_Name1=ForceUpdateSettings
+Configuration10_Item1=False
+Configuration10_Name2=OutputConfigurationParameter1
+Configuration10_Item2=BoardID=PXYWVOXG|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=False|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|DocumentPath=C:\Users\kubic\Documents\GitHub\tracker_electrical\AOU\AOU010\AOU_010\aou_pcb.PcbDoc
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
 OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=PXYWVOXG|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=C:\Users\kubic\Documents\GitHub\tracker_electrical\AOU\AOU010\AOU_010\aou_pcb.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1086,50 +1313,50 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID0=B230A-13-F
-ComponentSymbolReference0=B230A-13-F
+ComponentDesignItemID0=AMS1117-3.3
+ComponentSymbolReference0=AMS1117-3.3
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID1=Cap 100n 0603
-ComponentSymbolReference1=Cap 100n 0603
+ComponentDesignItemID1=B230A-13-F
+ComponentSymbolReference1=B230A-13-F
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID2=Cap 10u 0805
-ComponentSymbolReference2=Cap 10u 0805
+ComponentDesignItemID2=Cap 100n 0603
+ComponentSymbolReference2=Cap 100n 0603
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID3=Cap 2u2 0603
-ComponentSymbolReference3=Cap 2u2 0603
+ComponentDesignItemID3=Cap 10u 0805
+ComponentSymbolReference3=Cap 10u 0805
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID4=Cap el 100u 50V
-ComponentSymbolReference4=Cap el 100u 50V
+ComponentDesignItemID4=Cap 2u2 0603
+ComponentSymbolReference4=Cap 2u2 0603
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID5=Ferrite bead 0603
-ComponentSymbolReference5=Ferrite bead 0603
+ComponentDesignItemID5=Cap el 100u 50V
+ComponentSymbolReference5=Cap el 100u 50V
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID6=JST-HX-6
-ComponentSymbolReference6=JST-HX-6
+ComponentDesignItemID6=Hole
+ComponentSymbolReference6=Hole
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID7=LD1117S33CTR
-ComponentSymbolReference7=LD1117S33CTR
+ComponentDesignItemID7=JST-HX-6
+ComponentSymbolReference7=JST-HX-6
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
@@ -1158,46 +1385,76 @@ ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID12=Pin header 2p
-ComponentSymbolReference12=Pin header 2p
+ComponentDesignItemID12=PESD3V3S2UT,215
+ComponentSymbolReference12=PESD3V3S2UT,215
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID13=Pin header 6p
-ComponentSymbolReference13=Pin header 6p
+ComponentDesignItemID13=Pin header 2p
+ComponentSymbolReference13=Pin header 2p
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID14=Res 10k 0805
-ComponentSymbolReference14=Res 10k 0805
+ComponentDesignItemID14=Pin header 6p
+ComponentSymbolReference14=Pin header 6p
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID15=Res 1k 0805
-ComponentSymbolReference15=Res 1k 0805
+ComponentDesignItemID15=Pin header 8p
+ComponentSymbolReference15=Pin header 8p
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID16=STM32F401
-ComponentSymbolReference16=STM32F401
+ComponentDesignItemID16=Res 100R 0805
+ComponentSymbolReference16=Res 100R 0805
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID17=SW PushButton 6mm
-ComponentSymbolReference17=SW PushButton 6mm
+ComponentDesignItemID17=Res 10k 0805
+ComponentSymbolReference17=Res 10k 0805
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=Kubikova ultra knihovna.SchLib
-ComponentDesignItemID18=XT30 male
-ComponentSymbolReference18=XT30 male
+ComponentDesignItemID18=Res 1k 0805
+ComponentSymbolReference18=Res 1k 0805
 ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=Kubikova ultra knihovna.SchLib
+ComponentDesignItemID19=SI8621AB-B-IS
+ComponentSymbolReference19=SI8621AB-B-IS
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=Kubikova ultra knihovna.SchLib
+ComponentDesignItemID20=SN74HC20DR
+ComponentSymbolReference20=SN74HC20DR
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=Kubikova ultra knihovna.SchLib
+ComponentDesignItemID21=STM32F401RCT6
+ComponentSymbolReference21=STM32F401RCT6
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=Kubikova ultra knihovna.SchLib
+ComponentDesignItemID22=USBLC6-4SC6
+ComponentSymbolReference22=USBLC6-4SC6
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=Kubikova ultra knihovna.SchLib
+ComponentDesignItemID23=XT30 male
+ComponentSymbolReference23=XT30 male
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1217,122 +1474,129 @@ ParameterName1=Arrow Price/Stock
 ParameterUpdate1=1
 ParameterName2=Author
 ParameterUpdate2=1
-ParameterName3=Comment
+ParameterName3=Basic
 ParameterUpdate3=1
-ParameterName4=Component Kind
+ParameterName4=Comment
 ParameterUpdate4=1
-ParameterName5=ComponentLink1Description
+ParameterName5=Component Kind
 ParameterUpdate5=1
-ParameterName6=ComponentLink1URL
+ParameterName6=ComponentLink1Description
 ParameterUpdate6=1
-ParameterName7=ComponentLink2Description
+ParameterName7=ComponentLink1URL
 ParameterUpdate7=1
-ParameterName8=ComponentLink2URL
+ParameterName8=ComponentLink2Description
 ParameterUpdate8=1
-ParameterName9=ComponentLink3Description
+ParameterName9=ComponentLink2URL
 ParameterUpdate9=1
-ParameterName10=ComponentLink3URL
+ParameterName10=ComponentLink3Description
 ParameterUpdate10=1
-ParameterName11=Current
+ParameterName11=ComponentLink3URL
 ParameterUpdate11=1
-ParameterName12=Datasheet Link
+ParameterName12=Current
 ParameterUpdate12=1
-ParameterName13=Description
+ParameterName13=Datasheet Link
 ParameterUpdate13=1
-ParameterName14=Height
+ParameterName14=Description
 ParameterUpdate14=1
-ParameterName15=JLCPCB Part
+ParameterName15=Height
 ParameterUpdate15=1
-ParameterName16=Library Reference
+ParameterName16=JLCPCB Part
 ParameterUpdate16=1
-ParameterName17=Manufacturer_Name
+ParameterName17=Library Reference
 ParameterUpdate17=1
-ParameterName18=Manufacturer_Part_Number
+ParameterName18=Manufacturer_Name
 ParameterUpdate18=1
-ParameterName19=Mouser Part Number
+ParameterName19=Manufacturer_Part_Number
 ParameterUpdate19=1
-ParameterName20=Mouser Price/Stock
+ParameterName20=Mouser Part Number
 ParameterUpdate20=1
-ParameterName21=Package
+ParameterName21=Mouser Price/Stock
 ParameterUpdate21=1
-ParameterName22=Published
+ParameterName22=Package
 ParameterUpdate22=1
-ParameterName23=Publisher
+ParameterName23=SMD
 ParameterUpdate23=1
-ParameterName24=Revision
+ParameterName24=TME Part
 ParameterUpdate24=1
-ParameterName25=SMD
+ParameterName25=Tolerance & Rating
 ParameterUpdate25=1
-ParameterName26=Tolerance & Rating
+ParameterName26=Value
 ParameterUpdate26=1
-ParameterName27=Value
+ParameterName27=Voltage rating
 ParameterUpdate27=1
-ParameterName28=Voltage rating
-ParameterUpdate28=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=0603
+ModelName0=0603_LED_B
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=0603_LED_B
+ModelName1=0603_LED_G
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=0603_LED_G
+ModelName2=0603_LED_R
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=0603_LED_R
+ModelName3=0603_LED_Y
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=0603_LED_Y
+ModelName4=2.5/4.5 mm
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=0603C
+ModelName5=3.2/6 MM
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=0603L
+ModelName6=CAP0603
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=CAP0603
+ModelName7=CAP0805
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=CAP0805
+ModelName8=CAPAE830X1100N
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=CAPAE830X1100N
+ModelName9=DIOM4326X23M
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=DIOM4326X23M
+ModelName10=JST-XH-6
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=JST-XH-6
+ModelName11=LQFP64
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=LQFP64
+ModelName12=Pin header 2p
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=Pin header 2p
+ModelName13=Pin header 6p
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=Pin header 6p
+ModelName14=Pin header 8p
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=Pushbutton smd 6mm
+ModelName15=RESC2012X06N(SMR0805)
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=RESC2012X06N(SMR0805)
+ModelName16=SOIC14
 ModelUpdate16=1
 ModelType17=PCBLIB
-ModelName17=SOT230P700X180-4M
+ModelName17=SOIC8
 ModelUpdate17=1
 ModelType18=PCBLIB
-ModelName18=XT30PWM
+ModelName18=SOT230P700X180-4M
 ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=SOT23-6
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=SOT95P230X110-3N(SOT23)
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=XT30PWM
+ModelUpdate21=1
 ModelTypeGroup1=SIM
 ModelTypeUpdate1=1
-ModelType19=SIM
-ModelName19=Simple
-ModelUpdate19=1
+ModelType22=SIM
+ModelName22=Simple
+ModelUpdate22=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
